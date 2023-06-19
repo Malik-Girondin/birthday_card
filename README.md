@@ -1,6 +1,7 @@
-# The Recipe Card
+# The Birthday Card
 
-* This is a simple project that helps you add styles to HTML with CSS.
-* I learned how to use the class and ID attributes on CSS.
-* I learned to add styles to specific elements using the correct selectors.
-* View the project at https://malik-girondin.github.io/recipe-card/
+* This is a simple project that helps showcase a common credential harvest attack.
+* A credential harvester attack is a type of cyberattack in which the malicious actor acquires sensitive information.
+* The link within the card should lead to a false Amazon sign-in page where the victim will enter their credentials.
+
+# Video Demo from the Victim's Perspective
